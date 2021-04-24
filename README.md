@@ -2,7 +2,6 @@
 Final project for CIS 195
 Merrick Eng - Task Productivity App
 
-Answer the following reflection questions casually with (1-2 sentences) on your github's readme:
 # How much do you think you learned throughout the project? List at least 2 concrete examples
 - I think I definitely learned a lot from this project. Here are some examples:
 - Creating Radio Buttons - I created a Radio Button class and learned how to make my own subclass using the provided UIButton class and then extending its capabilities
